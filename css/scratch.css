@@ -42,3 +42,6 @@ body {
    .txt
     {text-align: center;
     }
+div{
+    text-align: justify;
+}
